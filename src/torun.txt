@@ -1,0 +1,2 @@
+conda activate env311
+/Users/sunjsg/.local/bin/poetry run python src/main.py --ticker AAPL,MSFT,NVDA
